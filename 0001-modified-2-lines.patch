@@ -1,0 +1,30 @@
+From da34e970f8a7b97b7e4d90718be0efb64d8048e5 Mon Sep 17 00:00:00 2001
+From: alijonoff <azimjonalijonoff@gmail.com>
+Date: Thu, 9 Nov 2023 09:01:19 +0500
+Subject: [PATCH] modified 2 lines
+
+---
+ .firstFile,txt.swp | 0
+ firstFile.txt      | 4 ++--
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+ create mode 100644 .firstFile,txt.swp
+
+diff --git a/.firstFile,txt.swp b/.firstFile,txt.swp
+new file mode 100644
+index 0000000..e69de29
+diff --git a/firstFile.txt b/firstFile.txt
+index 234f1af..a3abe71 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,6 +1,6 @@
+ 1git1firstile.txt
+-2
+-3
++2updatefirstfile
++3UpdatefirstFile
+ 4
+ 5
+ 6
+-- 
+2.39.1.windows.1
+
