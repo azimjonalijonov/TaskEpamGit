@@ -1,6 +1,6 @@
 1git 1SecondFile.txt
-2
-3
+2updatingit_1
+3updatingit1
 4
 5
 6
